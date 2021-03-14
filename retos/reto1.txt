@@ -1,0 +1,2 @@
+hola, este archivo esta siendo editado con VIM, es una practica para el curso de terminal y linea de comandos, deberia inicializar git antes de continuar any further
+
