@@ -1,0 +1,12 @@
+Reto1.py
+Untitled-1
+archivo.txt
+archivos.txt
+barajas2.py
+ejemplo.txt
+ejemplo1.txt
+nuevo.txt
+prueba2.py
+reto1
+retos
+test.txt
